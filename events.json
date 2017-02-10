@@ -1,6 +1,14 @@
 {
 	"events": [
 		{
+			"name": "Richmond College",
+			"date": "16-02-2017 14:00",
+			"location": "Richmond Upon Thames College, Egerton Road, Twickenham, TW2 7SJ",
+			"type": "Regular",
+			"details_link": "https://www.rutc.ac.uk/events/item/1171-coder-dojo.html",
+			"tickets_link": "https://www.rutc.ac.uk/events/item/1171-coder-dojo.html"
+		},
+		{
 			"name": "CoderDojo Victoria",
 			"date": "25-02-2017 14:00",
 			"location": "John Lewis Head Office, 171 Victoria Street, SW1E 5NN",
@@ -20,7 +28,7 @@
 			"name": "Thomson Reuters",
 			"date": "13-02-2017 11:00",
 			"location": "Thomson Reuters, 30 South Colonnade, Canary Wharf, London, E14 5EP",
-			"type": "Regular",
+			"type": "Corporate",
 			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-thomson-reuters-tickets-31828348447",
 			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-thomson-reuters-tickets-31828348447"
 		},
