@@ -7,16 +7,21 @@
 			"type": "Regular",
 			"details_link": "https://www.eventbrite.co.uk/e/victoria-coderdojo-25th-feb-2017-tickets-31455113090",
 			"tickets_link": "https://www.eventbrite.co.uk/e/victoria-coderdojo-25th-feb-2017-tickets-31455113090"
-		},
-		{
-			"name": "OVO Energy London",
-			"date": "18-02-2017 13:30",
-			"location": "33 Notting Hill Gate, Astley House - Third Floor, London W11 3JQ",
+		}, {
+			"name": "Shoreditch CoderDojo - Games Development",
+			"date": "25-02-2017 13:30",
+			"location": "Tea Building Hackney, 62 Shoreditch High Street, E1 6JJ",
 			"type": "Regular",
-			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-ovo-energy-london-february-18th-tickets-31600880083",
-			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-ovo-energy-london-february-18th-tickets-31600880083"
-		},
-		{
+			"details_link": "https://www.eventbrite.co.uk/e/shoreditch-coderdojo-games-development-dojo-feb-2017-tickets-32211005986",
+			"tickets_link": "https://www.eventbrite.co.uk/e/shoreditch-coderdojo-games-development-dojo-feb-2017-tickets-32211005986"
+		}, {
+			"name": "CoderDojo Dragon Hall ",
+			"date": "04-03-2017 13:30",
+			"location": "Dragon Hall Tech Hub, 17 Stukeley Street, WC2B 5LT",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-march-2017-tickets-32287660261",
+			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-march-2017-tickets-32287660261"
+		}, {
 			"name": "CoderDojo Poplar",
 			"date": "29-04-2017 14:00",
 			"location": "The Trampery Republic, 9th Floor, Anchorage House, 2 Clove Crescent, London E14 2BE",
