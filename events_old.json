@@ -35,6 +35,20 @@
 			"type": "Regular",
 			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-croydon-tech-city-tickets-31458700821",
 			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-croydon-tech-city-tickets-31458700821"
+		}, {
+			"name": "CoderDojo Victoria",
+			"date": "25-02-2017 14:00",
+			"location": "John Lewis Head Office, 171 Victoria Street, SW1E 5NN",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/victoria-coderdojo-25th-feb-2017-tickets-31455113090",
+			"tickets_link": "https://www.eventbrite.co.uk/e/victoria-coderdojo-25th-feb-2017-tickets-31455113090"
+		}, {
+			"name": "Shoreditch CoderDojo - Games Development",
+			"date": "25-02-2017 13:30",
+			"location": "Tea Building Hackney, 62 Shoreditch High Street, E1 6JJ",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/shoreditch-coderdojo-games-development-dojo-feb-2017-tickets-32211005986",
+			"tickets_link": "https://www.eventbrite.co.uk/e/shoreditch-coderdojo-games-development-dojo-feb-2017-tickets-32211005986"
 		}
 	]
 }
