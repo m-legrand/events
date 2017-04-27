@@ -1,26 +1,33 @@
 {
 	"events": [
 		{
-			"name": "CoderDojo Dragon Hall ",
-			"date": "01-04-2017 13:30",
-			"location": "Dragon Hall Tech Hub, 17 Stukeley Street, WC2B 5LT",
-			"type": "Regular",
-			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-april-2017-tickets-33041766814",
-			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-april-2017-tickets-33041766814"
-		}, {
-			"name": "CoderDojo Victoria",
-			"date": "08-04-2017 14:00",
-			"location": "Telegraph Media Group, 111 Buckingham Palace Rd, SW1W 0DT",
-			"type": "Regular",
-			"details_link": "https://www.eventbrite.co.uk/e/victoria-coderdojo-8th-april-tickets-32689165173",
-			"tickets_link": "https://www.eventbrite.co.uk/e/victoria-coderdojo-8th-april-tickets-32689165173"
-		}, {
 			"name": "CoderDojo Poplar",
 			"date": "29-04-2017 14:00",
 			"location": "The Trampery Republic, 9th Floor, Anchorage House, 2 Clove Crescent, London E14 2BE",
 			"type": "Regular",
 			"details_link": "https://www.eventbrite.co.uk/e/poplar-coderdojo-29th-april-2017-tickets-32175077523",
 			"tickets_link": "https://www.eventbrite.co.uk/e/poplar-coderdojo-29th-april-2017-tickets-32175077523"
+		}, {
+			"name": "CoderDojo Dragon Hall ",
+			"date": "06-05-2017 13:30",
+			"location": "Dragon Hall Tech Hub, 17 Stukeley Street, WC2B 5LT",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-may-2017-tickets-33986033140",
+			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-may-2017-tickets-33986033140"
+		}, {
+			"name": "CoderDojo ADA College",
+			"date": "20-05-2017 13:00",
+			"location": "ADA - National College for Digital Skills, Broad Lane, Tottenham, N15 4AG",
+			"type": "Girls Only",
+			"details_link": "https://www.eventbrite.co.uk/e/girls-only-dojo-ada-college-tickets-33954614165",
+			"tickets_link": "https://www.eventbrite.co.uk/e/girls-only-dojo-ada-college-tickets-33954614165"
+		}, {
+			"name": "CoderDojo Victoria",
+			"date": "20-05-2017 14:00",
+			"location": "John Lewis Head Office, 171 Victoria Street, SW1E 5NN",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/victoria-coder-dojo-20th-may-2017-tickets-33954802729",
+			"tickets_link": "https://www.eventbrite.co.uk/e/victoria-coder-dojo-20th-may-2017-tickets-33954802729"
 		}
 	]
 }
