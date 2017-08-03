@@ -1,6 +1,14 @@
 {
 	"events": [
 		{
+			"name": "Festival of Code",
+			"date": "24-07-2017 10:00",
+			"location": "Wapping High School, 153-157 Commercial Road, London E1 2DA",
+			"type": "Supporter",
+			"details_link": "http://www.wappinghigh.org/wapping-highlights/foc2017",
+			"tickets_link": "http://www.wappinghigh.org/wapping-highlights/foc2017"
+		},
+		{
 			"name": "CoderDojo Dragon Hall ",
 			"date": "04-03-2017 13:30",
 			"location": "Dragon Hall Tech Hub, 17 Stukeley Street, WC2B 5LT",
