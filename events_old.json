@@ -1,6 +1,38 @@
 {
 	"events": [
 		{
+			"name": "CoderDojo Tower Bridge @ Rainmaking Loft",
+			"date": "16-09-2017 14:00",
+			"location": "Rainmaking Loft, International House, 1 St Katharine's Way, London, E1W 1UN",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/tower-bridge-coderdojo-16th-september-2017-tickets-35949540042",
+			"tickets_link": "https://www.eventbrite.co.uk/e/tower-bridge-coderdojo-16th-september-2017-tickets-35949540042"
+		},
+		{
+			"name": "CoderDojo Poplar",
+			"date": "09-09-2017 14:00",
+			"location": "The Trampery Republic, 9th Floor, Anchorage House, 2 Clove Crescent, London E14 2BE",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/poplar-coderdojo-9th-september-2017-tickets-35851919055",
+			"tickets_link": "https://www.eventbrite.co.uk/e/poplar-coderdojo-9th-september-2017-tickets-35851919055"
+		},
+		{
+			"name": "CoderDojo Dragon Hall ",
+			"date": "02-09-2017 13:30",
+			"location": "Dragon Hall Tech Hub, 17 Stukeley Street, WC2B 5LT",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-sept-2017-tickets-37028277575",
+			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-sept-2017-tickets-37028277575"
+		},
+		{
+			"name": "CoderDojo Barclays",
+			"date": "26-08-2017 14:00",
+			"location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/barclays-eagle-labs-coderdojo-26th-august-2017-tickets-36753214855",
+			"tickets_link": "https://www.eventbrite.co.uk/e/barclays-eagle-labs-coderdojo-26th-august-2017-tickets-36753214855"
+		},
+		{
 			"name": "Festival of Code",
 			"date": "24-07-2017 10:00",
 			"location": "Wapping High School, 153-157 Commercial Road, London E1 2DA",
