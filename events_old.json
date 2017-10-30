@@ -2,6 +2,14 @@
 	"events": [
 		{
 			"name": "CoderDojo Tower Bridge @ Rainmaking Loft",
+			"date": "14-10-2017 14:00",
+			"location": "Rainmaking Loft, International House, 1 St Katharine's Way, London, E1W 1UN",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/tower-bridge-coderdojo-14th-october-2017-tickets-38228157448",
+			"tickets_link": "https://www.eventbrite.co.uk/e/tower-bridge-coderdojo-14th-october-2017-tickets-38228157448"
+		},
+		{
+			"name": "CoderDojo Tower Bridge @ Rainmaking Loft",
 			"date": "16-09-2017 14:00",
 			"location": "Rainmaking Loft, International House, 1 St Katharine's Way, London, E1W 1UN",
 			"type": "Regular",
@@ -23,6 +31,22 @@
 			"type": "Regular",
 			"details_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-sept-2017-tickets-37028277575",
 			"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-dragon-hall-sept-2017-tickets-37028277575"
+		},
+		{
+			"name": "CoderDojo Barclays",
+			"date": "30-09-2017 14:00",
+			"location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/barclays-eagle-labs-coderdojo-30th-september-2017-tickets-36753501713",
+			"tickets_link": "https://www.eventbrite.co.uk/e/barclays-eagle-labs-coderdojo-30th-september-2017-tickets-36753501713"
+		},
+		{
+			"name": "CoderDojo Barclays",
+			"date": "28-10-2017 14:00",
+			"location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+			"type": "Regular",
+			"details_link": "https://www.eventbrite.co.uk/e/barclays-eagle-labs-coderdojo-28th-october-2017-tickets-36753553869",
+			"tickets_link": "https://www.eventbrite.co.uk/e/barclays-eagle-labs-coderdojo-28th-october-2017-tickets-36753553869"
 		},
 		{
 			"name": "CoderDojo Barclays",
