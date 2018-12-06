@@ -7,6 +7,14 @@
 			"type": "Regular",
 			"details_link": "",
 			"tickets_link": ""
+	},
+	{
+			"name": "CoderDojo Shoreditch",
+			"date": "21-02-2019 14:00",
+			"location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+			"type": "Regular",
+			"details_link": "",
+			"tickets_link": ""
 	}
 	]
 }
