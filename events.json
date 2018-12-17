@@ -1,3 +1,11 @@
 {
-	"events": []
+	"events": [
+	{
+		"name": "CoderDojo Shoreditch",
+		"date": "26-01-2019 14:00",
+		"location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+		"type": "Regular",
+		"details_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-26th-january-2019-tickets-53705910825",
+		"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-26th-january-2019-tickets-53705910825"
+	}]
 }
