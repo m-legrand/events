@@ -1,11 +1,20 @@
 {
-	"events": [
-	{
-		"name": "CoderDojo RISE",
-		"date": "26-01-2019 14:00",
-		"location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
-		"type": "Regular",
-		"details_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-26th-january-2019-tickets-53705910825",
-		"tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-26th-january-2019-tickets-53705910825"
-	}]
+        "events": [
+                {
+                        "name": "CoderDojo RISE",
+                        "date": " 23-02-2019 14:00",
+                        "location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+                        "type": "Regular",
+                        "details_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-23-february-2019-tickets-54762598406",
+                        "tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-23-february-2019-tickets-54762598406"
+                },
+                {
+                        "name": "CoderDojo RISE",
+                        "date": " 30-03-2019 14:00",
+                        "location": "RISE London, 41 Luke street, Shoreditch, London EC2A 4DP",
+                        "type": "Regular",
+                        "details_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-30-march-2019-tickets-54762870219",
+                        "tickets_link": "https://www.eventbrite.co.uk/e/coderdojo-rise-30-march-2019-tickets-54762870219"
+                }
+	]
 }
